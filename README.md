@@ -29,7 +29,6 @@ Esta ETL cobre o **Projeto Migração de Pessoas**, com dados fictícios represe
 | **csv / json / logging** | Leitura, checkpoint e logs (stdlib) |
 | **Jupyter Notebook** | Apresentação e análise exploratória |
 
-> **Por que SQLite e não Oracle?**  
 > SQLite permite execução local sem infraestrutura, com DDL 100% compatível com Oracle.  
 > Em produção, basta trocar a string de conexão e os tipos de dados AUTOINCREMENT → SEQUENCE.
 
