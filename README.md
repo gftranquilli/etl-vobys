@@ -15,7 +15,7 @@ A VOBYS foi contratada pelo Estado de Goiás para implantar um **Sistema de Gest
 - **Destino**: banco de dados Oracle único e orquestrado
 - **Prazo de implantação**: 18 meses
 
-Esta ETL cobre o **Projeto 1 — Migração de Pessoas**, com dados fictícios representativos.
+Esta ETL cobre o **Projeto Migração de Pessoas**, com dados fictícios representativos.
 
 ---
 
