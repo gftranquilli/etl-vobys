@@ -200,7 +200,7 @@ etl_execucoes (id, iniciado_em, finalizado_em,
 
 ---
 
-## Autor
+## Contato
 
 *Gabriel Farias Tranquilli*  
 Analista de Dados  
