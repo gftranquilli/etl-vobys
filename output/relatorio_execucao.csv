@@ -1,0 +1,15 @@
+etapa,metrica,valor
+geral,execucao_timestamp,2026-03-31 17:31:15
+geral,tempo_total_segundos,103.564
+extract,registros_extraidos,166261
+extract,linhas_ignoradas_checkpoint,0
+extract,tempo_extract_segundos,1.2284
+transform,registros_validos,149021
+transform,registros_quarentena,17240
+transform,taxa_rejeicao_pct,10.37
+transform,tempo_transform_segundos,52.3003
+load,registros_inseridos,15445
+load,registros_atualizados,133575
+load,erros_carga,1
+load,tempo_load_segundos,50.0353
+load,banco_destino,G:\Outros computadores\Meu laptop\Análise e Desenvolvimento de Sistemas\Vagas de emprego\Teste Vobys\etl_vobys\notebook\..\output\gestao_pessoas.db
